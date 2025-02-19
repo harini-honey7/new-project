@@ -1,3 +1,1 @@
-const a=7;
-const b=9;
-
+console.log("hi lalliii")
